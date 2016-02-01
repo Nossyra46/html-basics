@@ -1,0 +1,33 @@
+body
+{
+	background-color: #EBEBEB;
+	color: #9A9A9A;
+	font-family: "Montserrat", sans-serif;
+}
+
+h1
+{
+	color: #DD5555;
+}
+
+h2
+{
+	color: #7D7D7D;
+}
+
+a
+{
+	text-decoration: none;
+	color: #CDCDCD;
+	transition: color 0.3s ease;
+}
+
+a:hover
+{
+	color: #C9C9C9;
+}
+
+img
+{
+	width: 300px;
+}
