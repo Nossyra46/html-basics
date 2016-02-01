@@ -31,3 +31,16 @@ img
 {
 	width: 300px;
 }
+
+#container
+{
+	width: 700px;
+	margin: 0 auto;
+}
+
+.card
+{
+	background-color: #FFFFFF;
+	border-radius: 10px;
+	margin: 20px;
+}
